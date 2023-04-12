@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; akash may23</p>
+		<p>&copy; akash 23</p>
 	</footer>
 </div>
 
